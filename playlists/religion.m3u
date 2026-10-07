@@ -3,84 +3,84 @@
 #  🙏 LIVE RELIGION PLAYLIST
 #  👨‍💻 Dev        : @devxhasu
 #  🔗 Repo       : https://github.com/devxhasu/my-iptv-playlist
-#  🕐 Last Update: 07 Oct 2026, 07:36 PM (BDT)
-#  ⏰ Next Run   : 07 Oct 2026, 09:36 PM (BDT)
-#  📺 Live Total : 63
+#  🕐 Last Update: 07 Oct 2026, 09:34 PM (BDT)
+#  ⏰ Next Run   : 07 Oct 2026, 11:34 PM (BDT)
+#  📺 Live Total : 64
 # =============================================================
+#EXTINF:-1 tvg-name="Total Bhakti (1080p)" tvg-logo="https://i.imgur.com/LPwRdmF.png" group-title="Religious",Total Bhakti (1080p)
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+#EXTINF:-1 tvg-name="Madaniyat va ma'rifat (576p)" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="General",Madaniyat va ma'rifat (576p)
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="Madani TV (720p)" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Religious",Madani TV (720p)
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mahaa Bhakti (1080p)" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Mahaa Bhakti (1080p)
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+#EXTINF:-1 tvg-name="ZB Bhakti (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="Religious",ZB Bhakti (720p)
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1 tvg-name="Bangla Vision (720p)" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision (720p)
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-country="QA" group-title="Qatar",Qatar Television The Holy Quran
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
+#EXTINF:-1 tvg-name="The Islamic Network" tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Religious",The Islamic Network
+https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
+#EXTINF:-1 tvg-name="Peace TV Bangla (1080p)" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Religious",Peace TV Bangla (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-name="Hindu Dharmam (576p)" group-title="",Hindu Dharmam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
+#EXTINF:-1 tvg-name="Bhakti Sagar (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Religious",Bhakti Sagar (576p)
+https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-name="Mahaa Bhakti (576p)" group-title="",Mahaa Bhakti (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
+#EXTINF:-1 tvg-name="Madani Channel English (720p)" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Religious",Madani Channel English (720p)
+http://tvsen7.aynascope.net/MadaniTV/index.m3u8
+#EXTINF:-1 tvg-name="Madani Channel Urdu (720p)" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",Madani Channel Urdu (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain Quran (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Religious",Bahrain Quran (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Ishwar Bhakti TV (576p)" group-title="",Ishwar Bhakti TV (576p)
+https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV (360p) [Not 24/7]" group-title="",Al Quran Al Kareem TV (360p) [Not 24/7]
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png" group-title="",Bangla Vision
+https://iptvlive.ahmed-bd-org.workers.dev/banglavision-1/index.m3u8
+#EXTINF:-1 tvg-name="Hindu Dharmam (576p)" group-title="",Hindu Dharmam (576p)
+http://51.75.127.199:3141/hindudharmam/index.m3u8
+#EXTINF:-1 tvg-name="Peace TV Chinese (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="Religious",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 tvg-name="Qatar TV The Holy Quran (1080p)" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Religious",Qatar TV The Holy Quran (1080p)
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+#EXTINF:-1 tvg-name="Quran TV (Iran)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Religious",Quran TV (Iran)
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="",Bangla Vision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1 tvg-name="MADANI TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg" group-title="",MADANI TV
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 #EXTINF:-1 tvg-name="Ishwar Bhakti TV (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHWAR_TV/images/LOGO_HD/image.png" group-title="Religious",Ishwar Bhakti TV (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Madani Channel English (720p)" group-title="",Madani Channel English (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-name="Peace TV English (1080p)" tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="Religious",Peace TV English (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-name="Sharjah Radio Quran (1080p)" tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="Religious",Sharjah Radio Quran (1080p)
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-name="Holy Quran Radio (1080p)" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="General;Religious",Holy Quran Radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-name="Holy Quran Radio Nablus (720p)" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Religious",Holy Quran Radio Nablus (720p)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-name="Quran Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="",Quran Live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="",Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+#EXTINF:-1 tvg-name="Alquran (1080p)" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Alquran (1080p)
+https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-name="Peace TV Urdu (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="Religious",Peace TV Urdu (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-name="Knock Bhakti (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png" group-title="Religious",Knock Bhakti (1080p)
 https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
-#EXTINF:-1 tvg-name="Mahaa Bhakti (1080p)" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Mahaa Bhakti (1080p)
-https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
-#EXTINF:-1 tvg-name="Bhakti Sagar (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Religious",Bhakti Sagar (576p)
-https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
-#EXTINF:-1 tvg-name="Peace TV Bangla (1080p)" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Religious",Peace TV Bangla (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-name="Madani Channel Urdu (720p)" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",Madani Channel Urdu (720p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-name="Madani Channel Bangla (1080p)" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Religious",Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-name="Total Bhakti (1080p)" tvg-logo="https://i.imgur.com/LPwRdmF.png" group-title="Religious",Total Bhakti (1080p)
-https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision (720p)" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision (720p)
-https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-name="Madani Channel English (720p)" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Religious",Madani Channel English (720p)
-http://tvsen7.aynascope.net/MadaniTV/index.m3u8
-#EXTINF:-1 tvg-name="ZB Bhakti (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="Religious",ZB Bhakti (720p)
-https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1 tvg-name="Bahrain Quran (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Bahrain",Bahrain Quran (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Madani TV (720p)" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Indonesia",Madani TV (720p)
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Alquran (1080p)" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Iraq",Alquran (1080p)
-https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:-1 tvg-name="Quran TV (Iran)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Iran",Quran TV (Iran)
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Holy Quran Radio Nablus (720p)" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Palestine",Holy Quran Radio Nablus (720p)
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 tvg-name="Qatar TV The Holy Quran (1080p)" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Qatar",Qatar TV The Holy Quran (1080p)
-https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
-#EXTINF:-1 tvg-name="Iqraa Quran (1080p)" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Saudi Arabia",Iqraa Quran (1080p)
+#EXTINF:-1 tvg-name="Iqraa Quran (1080p)" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 tvg-name="Holy Quran Radio (1080p)" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="Saudi Arabia",Holy Quran Radio (1080p)
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 tvg-name="The Islamic Network" tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Trinidad and Tobago",The Islamic Network
-https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
-#EXTINF:-1 tvg-name="Sharjah Radio Quran (1080p)" tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="United Arab Emirates",Sharjah Radio Quran (1080p)
-https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-#EXTINF:-1 tvg-name="Peace TV Chinese (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="United Arab Emirates",Peace TV Chinese (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-name="Madaniyat va ma'rifat (576p)" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="Uzbekistan",Madaniyat va ma'rifat (576p)
-https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="Peace TV English (1080p)" tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="International",Peace TV English (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-country="QA" group-title="Qatar",Qatar Television The Holy Quran
-https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
-#EXTINF:-1 tvg-name="Mahaa Bhakti (576p)" group-title="",Mahaa Bhakti (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
-#EXTINF:-1 tvg-name="Ishwar Bhakti TV (576p)" group-title="",Ishwar Bhakti TV (576p)
-https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
-#EXTINF:-1 tvg-name="Hindu Dharmam (576p)" group-title="",Hindu Dharmam (576p)
-https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
-#EXTINF:-1 tvg-name="Hindu Dharmam (576p)" group-title="",Hindu Dharmam (576p)
-http://51.75.127.199:3141/hindudharmam/index.m3u8
-#EXTINF:-1 tvg-name="Madani Channel English (720p)" group-title="",Madani Channel English (720p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 tvg-name="Al Quran Al Kareem TV (360p) [Not 24/7]" group-title="",Al Quran Al Kareem TV (360p) [Not 24/7]
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 tvg-name="MADANI TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg" group-title="",MADANI TV
-https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="",Bangla Vision
-https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="",Quran TV
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-#EXTINF:-1 tvg-name="Quran Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="",Quran Live
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png" group-title="",Bangla Vision
-https://iptvlive.ahmed-bd-org.workers.dev/banglavision-1/index.m3u8
 #EXTINF:-1 tvg-name="Zee Hindustan" tvg-logo="https://i.postimg.cc/VvS28M3L/Zee-Hindustan1.jpg" group-title="",Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a" group-title="",Bangla Vision
@@ -95,41 +95,43 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v4a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="RADIO SAUTI YA QURAN" group-title="",RADIO SAUTI YA QURAN
 https://stream.zeno.fm/igtk1anecmcvv
-#EXTINF:-1 tvg-name="Iqra Quran" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png" group-title="",Iqra Quran
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/4.m3u8
 #EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest/scale-to-width-down/235?cb=20220419153100" group-title="",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Quran Kareem TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="",Quran Kareem TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1696039722_b978000.m3u8
 #EXTINF:-1 tvg-name="Peace TV Urdu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Peace_TV_logo_2015.jpeg.jpeg/revision/latest" group-title="",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Iqra Quran" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-172433-removebg-preview.png" group-title="",Iqra Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/4.m3u8
+#EXTINF:-1 tvg-name="Quran Kareem TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="",Quran Kareem TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1696039722_b978000.m3u8
 #EXTINF:-1 tvg-name="Kripalu Bhakti Dhara Radio" group-title="",Kripalu Bhakti Dhara Radio
 http://kbd.out.airtime.pro:8000/kbd_a
 #EXTINF:-1 tvg-name="Kripalu Bhakti Dhara Radio" group-title="",Kripalu Bhakti Dhara Radio
 https://kbd.out.airtime.pro/kbd_a
-#EXTINF:-1 tvg-name="Bhakti Sangeet" tvg-logo="https://radio.streamitter.com/images/logos/1G9RKI.png" group-title="",Bhakti Sangeet
-https://stream.zeno.fm/ut3kgm1vsa0uv
-#EXTINF:-1 tvg-name="Peace TV Urdu (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="",Peace TV Urdu (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?checkedby%3Aiptvcat.com=
 #EXTINF:-1 tvg-name="Peace TV Bangla (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="",Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?checkedby%3Aiptvcat.com=
+#EXTINF:-1 tvg-name="Peace TV Urdu (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="",Peace TV Urdu (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?checkedby%3Aiptvcat.com=
+#EXTINF:-1 tvg-name="Bhakti Sangeet" tvg-logo="https://radio.streamitter.com/images/logos/1G9RKI.png" group-title="",Bhakti Sangeet
+https://stream.zeno.fm/ut3kgm1vsa0uv
 #EXTINF:-1 tvg-name="ZB Bhakti (720p)" tvg-logo="https://i.imgur.com/MBaKNPC.jpeg" group-title="",ZB Bhakti (720p)
 https://server.zillarbarta.com/zbbhakti/index.m3u8?checkedby%3Aiptvcat.com=
-#EXTINF:-1 tvg-name="Vahon Hindustani" group-title="",Vahon Hindustani
-https://onlineradio.websoftitnepal.com/8030/stream/1/.mp4a.40.5
 #EXTINF:-1 tvg-name="Madani Tv" group-title="",Madani Tv
 http://175.107.244.52:4456/play/a02j/index.m3u8
-#EXTINF:-1 tvg-name="Bhakti World Mantra Shakti" group-title="",Bhakti World Mantra Shakti
-https://djbeat.out.airtime.pro:8000/djbeat_a
+#EXTINF:-1 tvg-name="Vahon Hindustani" group-title="",Vahon Hindustani
+https://onlineradio.websoftitnepal.com/8030/stream/1/.mp4a.40.5
 #EXTINF:-1 tvg-name="Bhakti World Ganesha" group-title="",Bhakti World Ganesha
 https://radio2bindia.out.airtime.pro/radio2bindia_a
-#EXTINF:-1 tvg-name="Bhakti World Krishna" group-title="",Bhakti World Krishna
-https://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-#EXTINF:-1 tvg-name="Bhakti World Hanuman" group-title="",Bhakti World Hanuman
-https://2bhanuman.out.airtime.pro:8000/2bhanuman_a
 #EXTINF:-1 tvg-name="Bhakti World Shiva" group-title="",Bhakti World Shiva
 https://hot.out.airtime.pro:8000/hot_a
+#EXTINF:-1 tvg-name="Bhakti World Hanuman" group-title="",Bhakti World Hanuman
+https://2bhanuman.out.airtime.pro:8000/2bhanuman_a
+#EXTINF:-1 tvg-name="Bhakti World Mantra Shakti" group-title="",Bhakti World Mantra Shakti
+https://djbeat.out.airtime.pro:8000/djbeat_a
+#EXTINF:-1 tvg-name="Bhakti World Krishna" group-title="",Bhakti World Krishna
+https://millenniumhits.out.airtime.pro:8000/millenniumhits_a
 #EXTINF:-1 tvg-name="Bhakti Radio" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14318.png" group-title="",Bhakti Radio
 https://stream-141.zeno.fm/ut3kgm1vsa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dDNrZ20xdnNhMHV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkgwMXVSQVlQUWwtU1h2TTlPM19yeFEiLCJpYXQiOjE3NTEwOTQwNDAsImV4cCI6MTc1MTA5NDEwMH0.KzauUVVRNPqdkBXtheT9uVZAyoJrPmZ4oawKvOdDxBA
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/islamic-tv.png" group-title="",Islamic TV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png" group-title="",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
