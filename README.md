@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/mahadihasan">
+<a href="https://github.com/devxhasu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Auto+Scrape+%E2%9A%A1;Auto+Category+%F0%9F%93%82;Auto+Update+%F0%9F%94%84;Made+by+Mahadi+Hasan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
@@ -37,7 +37,7 @@
 
 ### **Mahadi Hasan**
 
-<a href="https://github.com/mahadihasan">
+<a href="https://github.com/devxhasu">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://t.me/">
@@ -128,7 +128,7 @@ iptv-auto-script/
 **১️⃣ Clone Repository**
 
 ```bash
-git clone https://github.com/mahadihasan/iptv-auto-script.git
+git clone https://raw.githubusercontent.com/devxhasu/my-iptv-playlist/refs/heads/main/custom.m3u
 cd iptv-auto-script
 ```
 
@@ -243,7 +243,7 @@ jobs:
 **IPTV Player এ সরাসরি ব্যবহার করুন:**
 
 ```
-https://raw.githubusercontent.com/mahadihasan/iptv-auto-script/main/output/playlist.m3u
+https://raw.githubusercontent.com/devxhasu/my-iptv-playlist/refs/heads/main/custom.m3u
 ```
 
 <img src="https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white"/>
@@ -274,8 +274,8 @@ https://raw.githubusercontent.com/mahadihasan/iptv-auto-script/main/output/playl
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahadihasan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00BFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadihasan&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00BFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devxhasu &show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00BFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devxhasu &theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00BFFF" width="48%"/>
 
 </div>
 
@@ -301,7 +301,7 @@ This project is licensed under the **MIT License**
 
 **ভালো লাগলে একটা ⭐ স্টার দিন!**
 
-<a href="https://github.com/mahadihasan/iptv-auto-script/stargazers">
+<a href="https://github.com/devxhasu/iptv-auto-script/stargazers">
   <img src="https://img.shields.io/github/stars/mahadihasan/iptv-auto-script?style=social" />
 </a>
 
