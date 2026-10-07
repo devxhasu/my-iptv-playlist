@@ -1,0 +1,129 @@
+{
+  "🎬 dev": "@devxhasu",
+  "🔗 repo": "https://github.com/devxhasu/my-iptv-playlist",
+  "🕐 last_update": "07 Oct 2026, 06:00 PM (BDT)",
+  "⏰ next_auto_run": "07 Oct 2026, 08:00 PM (BDT)",
+  "⏱️ duration": "11m 8s",
+  "📌 version": "3.1",
+  "📦 summary": {
+    "🔍 total_searched": 25785,
+    "🧹 after_dedupe": 25785,
+    "✅ total_live": 20356,
+    "🎯 custom": 12,
+    "🌐 public_channel": 84,
+    "🏟️ live_sports": 668,
+    "📅 upcoming": 0,
+    "🗄️ mongodb_loaded": 36904
+  },
+  "📡 sources": {
+    "🌐 international": {
+      "🟢 enabled": true,
+      "sources_found": 18,
+      "methods": {
+        "A": 0,
+        "B": 18,
+        "C": 0,
+        "D": 0,
+        "E": 0,
+        "F": 0,
+        "G": 18,
+        "H": 18,
+        "international": 18,
+        "manual": 0,
+        "duplicates": 36,
+        "invalid": 0
+      }
+    },
+    "🖐️ manual": {
+      "🟢 enabled": true,
+      "sources_total": 0
+    },
+    "🗄️ mongodb": {
+      "🟢 enabled": true,
+      "read_only": true,
+      "channels_loaded": 36904
+    },
+    "📨 telegram": {
+      "🟢 enabled": true,
+      "candidates": 0
+    }
+  },
+  "📁 files": {
+    "playlist.m3u": {
+      "📺 count": 20356
+    },
+    "custom.m3u": {
+      "📺 count": 12
+    },
+    "public.m3u": {
+      "📺 count": 84
+    },
+    "playlists/live-sports.m3u": {
+      "📺 count": 668,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE MATCH + SPORTS"
+    },
+    "playlists/upcoming.m3u": {
+      "📺 count": 0,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "UPCOMING / SCHEDULE"
+    }
+  },
+  "📂 playlists": {
+    "news": {
+      "📺 live": 1096,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE ONLY"
+    },
+    "movies": {
+      "📺 live": 486,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE ONLY"
+    },
+    "kids": {
+      "📺 live": 308,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE ONLY"
+    },
+    "religion": {
+      "📺 live": 58,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE ONLY"
+    },
+    "music": {
+      "📺 live": 894,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE ONLY"
+    },
+    "sports": {
+      "📺 live": 481,
+      "👨‍💻 dev": "@devxhasu",
+      "📡 status": "LIVE ONLY"
+    }
+  },
+  "🎯 channel_limits": {
+    "🟢 enabled": true,
+    "custom_per_channel": 2,
+    "public_per_channel": 3,
+    "sports_live_per_channel": 3
+  },
+  "⚙️ settings_active": {
+    "🌐 international": true,
+    "🖐️ manual": true,
+    "🗄️ mongodb": true,
+    "📨 telegram": true,
+    "🎯 custom": true,
+    "🔴 check_streams": true,
+    "🏟️ live_sports": true,
+    "📅 upcoming": true
+  },
+  "🏥 health": {
+    "🟢 config_ok": true,
+    "🟢 sources_ok": true,
+    "🟢 custom_ok": true,
+    "🟢 mongodb_read_only": true,
+    "📊 last_status": "success"
+  },
+  "💡 powered_by": "IPTV Auto Engine v3.0",
+  "👨‍💻 dev": "@devxhasu"
+}
