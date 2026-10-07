@@ -3,24 +3,20 @@
 #  🎯 CUSTOM CHANNELS
 #  👨‍💻 Dev        : @devxhasu
 #  🔗 Repo       : https://github.com/devxhasu/my-iptv-playlist
-#  🕐 Last Update: 07 Oct 2026, 06:19 PM (BDT)
-#  ⏰ Next Run   : 07 Oct 2026, 08:19 PM (BDT)
-#  📺 Live Total : 12
+#  🕐 Last Update: 07 Oct 2026, 06:46 PM (BDT)
+#  ⏰ Next Run   : 07 Oct 2026, 08:46 PM (BDT)
+#  📺 Live Total : 10
 # =============================================================
 #EXTINF:-1 tvg-name="Zee Bangla (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangla",Zee Bangla (576p)
 http://103.151.60.162:2122/play/a011/index.m3u8?hls=
 #EXTINF:-1 tvg-name="Star Jalsha HD (720p)" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon (India) (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (India) (576p)
-http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-name="Khushboo Bangla (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png" group-title="Movies",Khushboo Bangla (720p)
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
-#EXTINF:-1 tvg-name="Star Movies (India) HD (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD (1080p)
-http://51.75.127.199:3141/starmovieshd/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36' group-title='Entertainment',MTV (India)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (India)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1 tvg-name="MTV Classic BR (720p)" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",MTV Classic BR (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-name="VH1+ Girl Power! – Pluto TV" tvg-logo="https://i.imgur.com/Z4t6fdU.png" group-title="Music",VH1+ Girl Power! – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655208ff53fc9700084a834e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="BBC News Hindi (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi (1080p)
