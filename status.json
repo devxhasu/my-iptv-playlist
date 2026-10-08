@@ -1,17 +1,17 @@
 {
   "🎬 dev": "@devxhasu",
   "🔗 repo": "https://github.com/devxhasu/my-iptv-playlist",
-  "🕐 last_update": "08 Oct 2026, 06:13 AM (BDT)",
-  "⏰ next_auto_run": "08 Oct 2026, 08:13 AM (BDT)",
-  "⏱️ duration": "13m 46s",
+  "🕐 last_update": "08 Oct 2026, 06:59 AM (BDT)",
+  "⏰ next_auto_run": "08 Oct 2026, 08:59 AM (BDT)",
+  "⏱️ duration": "13m 28s",
   "📌 version": "3.1",
   "📦 summary": {
-    "🔍 total_searched": 26729,
-    "🧹 after_dedupe": 26729,
-    "✅ total_live": 21295,
+    "🔍 total_searched": 26758,
+    "🧹 after_dedupe": 26758,
+    "✅ total_live": 21370,
     "🎯 custom": 12,
-    "🌐 public_channel": 273,
-    "🏟️ live_sports": 692,
+    "🌐 public_channel": 115,
+    "🏟️ live_sports": 691,
     "📅 upcoming": 0,
     "🗄️ mongodb_loaded": 36904
   },
@@ -50,16 +50,16 @@
   },
   "📁 files": {
     "playlist.m3u": {
-      "📺 count": 21295
+      "📺 count": 21370
     },
     "custom.m3u": {
       "📺 count": 12
     },
     "public.m3u": {
-      "📺 count": 273
+      "📺 count": 115
     },
     "playlists/live-sports.m3u": {
-      "📺 count": 692,
+      "📺 count": 691,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE MATCH + SPORTS"
     },
@@ -71,32 +71,32 @@
   },
   "📂 playlists": {
     "news": {
-      "📺 live": 1248,
+      "📺 live": 1202,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "movies": {
-      "📺 live": 516,
+      "📺 live": 510,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "kids": {
-      "📺 live": 320,
+      "📺 live": 314,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "religion": {
-      "📺 live": 64,
+      "📺 live": 66,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "music": {
-      "📺 live": 937,
+      "📺 live": 913,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "sports": {
-      "📺 live": 493,
+      "📺 live": 492,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     }
@@ -104,7 +104,7 @@
   "🎯 channel_limits": {
     "🟢 enabled": true,
     "custom_per_channel": 2,
-    "public_per_channel": 3,
+    "public_per_channel": 1,
     "sports_live_per_channel": 3
   },
   "⚙️ settings_active": {
