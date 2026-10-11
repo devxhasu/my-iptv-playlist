@@ -1,17 +1,17 @@
 {
   "🎬 dev": "@devxhasu",
   "🔗 repo": "https://github.com/devxhasu/my-iptv-playlist",
-  "🕐 last_update": "11 Oct 2026, 06:52 AM (BDT)",
-  "⏰ next_auto_run": "11 Oct 2026, 08:52 AM (BDT)",
-  "⏱️ duration": "13m 39s",
+  "🕐 last_update": "11 Oct 2026, 02:26 PM (BDT)",
+  "⏰ next_auto_run": "11 Oct 2026, 04:26 PM (BDT)",
+  "⏱️ duration": "13m 50s",
   "📌 version": "3.1",
   "📦 summary": {
     "🔍 total_searched": 26586,
     "🧹 after_dedupe": 26586,
-    "✅ total_live": 21240,
+    "✅ total_live": 21250,
     "🎯 custom": 12,
-    "🌐 public_channel": 113,
-    "🏟️ live_sports": 743,
+    "🌐 public_channel": 110,
+    "🏟️ live_sports": 735,
     "📅 upcoming": 0,
     "🗄️ mongodb_loaded": 36478
   },
@@ -50,16 +50,16 @@
   },
   "📁 files": {
     "playlist.m3u": {
-      "📺 count": 21240
+      "📺 count": 21250
     },
     "custom.m3u": {
       "📺 count": 12
     },
     "public.m3u": {
-      "📺 count": 113
+      "📺 count": 110
     },
     "playlists/live-sports.m3u": {
-      "📺 count": 743,
+      "📺 count": 735,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE MATCH + SPORTS"
     },
@@ -71,32 +71,32 @@
   },
   "📂 playlists": {
     "news": {
-      "📺 live": 1244,
+      "📺 live": 1241,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "movies": {
-      "📺 live": 516,
+      "📺 live": 513,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "kids": {
-      "📺 live": 326,
+      "📺 live": 322,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "religion": {
-      "📺 live": 63,
+      "📺 live": 65,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "music": {
-      "📺 live": 941,
+      "📺 live": 942,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "sports": {
-      "📺 live": 544,
+      "📺 live": 541,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     }
