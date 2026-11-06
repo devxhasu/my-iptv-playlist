@@ -3,24 +3,24 @@
 #  🎯 CUSTOM CHANNELS
 #  👨‍💻 Dev        : @devxhasu
 #  🔗 Repo       : https://github.com/devxhasu/my-iptv-playlist
-#  🕐 Last Update: 06 Nov 2026, 08:11 AM (BDT)
-#  ⏰ Next Run   : 06 Nov 2026, 10:11 AM (BDT)
+#  🕐 Last Update: 06 Nov 2026, 03:12 PM (BDT)
+#  ⏰ Next Run   : 06 Nov 2026, 05:12 PM (BDT)
 #  📺 Live Total : 12
 # =============================================================
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Bangla",Zee Bangla
-https://iptvlive.ahmed-bd-org.workers.dev/zee-bangla-hd-2/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangla",Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD (720p)" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-name="DD Bangla (576p)" group-title="Indian Bangla",DD Bangla (576p)
-https://fta.ektv.in/live/197/master.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXM2J7y2LkoE63vv2He9SF1dMo3pS9hmEC23wzJv3maIccQ1e912eTGNSN74Riwx03whZi5tyKXHKEDSFl4AO1JrwjCIlMhglN-nOjmGhBHBnhp1EqdLB5hwV3jHgKUDlzNFW1Cv8qrMylfmiIosSwFmK72-h-LTinSr1bpDVfNm1p8SlrILxKesdgw/s1080/1000008187.png" group-title="Islamic",Islamic TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Islamic",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports",TNT Sports 4
-http://37.49.224.5/stream/4/index.m3u8
+#EXTINF:-1 tvg-name="DD Bangla (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="Indian Bangla",DD Bangla (576p)
+https://cdn.pishow.tv/ott/live/37/master.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD (720p) [Geo-blocked]" group-title="Indian Bangla",Zee Bangla HD (720p) [Geo-blocked]
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/islamic-tv.png" group-title="Islamic",Islamic TV
+https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
+#EXTINF:-1 tvg-name="Peace TV Bangla (1080p)" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Islamic",Peace TV Bangla (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Premium ArgentinaHD (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports",TNT Sports Premium ArgentinaHD (1080p)
+http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/AeplGsP.png" tvg-country="LT" group-title="Television",BTV
