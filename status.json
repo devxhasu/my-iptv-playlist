@@ -1,19 +1,19 @@
 {
   "🎬 dev": "@devxhasu",
   "🔗 repo": "https://github.com/devxhasu/my-iptv-playlist",
-  "🕐 last_update": "09 Nov 2026, 10:26 AM (BDT)",
-  "⏰ next_auto_run": "09 Nov 2026, 12:26 PM (BDT)",
-  "⏱️ duration": "6m 33s",
+  "🕐 last_update": "09 Nov 2026, 09:05 PM (BDT)",
+  "⏰ next_auto_run": "09 Nov 2026, 11:05 PM (BDT)",
+  "⏱️ duration": "6m 17s",
   "📌 version": "3.1",
   "📦 summary": {
-    "🔍 total_searched": 27964,
-    "🧹 after_dedupe": 27964,
-    "✅ total_live": 22620,
+    "🔍 total_searched": 27971,
+    "🧹 after_dedupe": 27971,
+    "✅ total_live": 22674,
     "🎯 custom": 12,
-    "🌐 public_channel": 106,
-    "🏟️ live_sports": 772,
+    "🌐 public_channel": 107,
+    "🏟️ live_sports": 779,
     "📅 upcoming": 0,
-    "🗄️ mongodb_loaded": 60980
+    "🗄️ mongodb_loaded": 61553
   },
   "📡 sources": {
     "🌐 international": {
@@ -41,7 +41,7 @@
     "🗄️ mongodb": {
       "🟢 enabled": true,
       "read_only": true,
-      "channels_loaded": 60980
+      "channels_loaded": 61553
     },
     "📨 telegram": {
       "🟢 enabled": true,
@@ -50,16 +50,16 @@
   },
   "📁 files": {
     "playlist.m3u": {
-      "📺 count": 22620
+      "📺 count": 22674
     },
     "custom.m3u": {
       "📺 count": 12
     },
     "public.m3u": {
-      "📺 count": 106
+      "📺 count": 107
     },
     "playlists/live-sports.m3u": {
-      "📺 count": 772,
+      "📺 count": 779,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE MATCH + SPORTS"
     },
@@ -71,32 +71,32 @@
   },
   "📂 playlists": {
     "news": {
-      "📺 live": 1340,
+      "📺 live": 1355,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "movies": {
-      "📺 live": 748,
+      "📺 live": 750,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "kids": {
-      "📺 live": 405,
+      "📺 live": 401,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "religion": {
-      "📺 live": 66,
+      "📺 live": 73,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "music": {
-      "📺 live": 994,
+      "📺 live": 957,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     },
     "sports": {
-      "📺 live": 578,
+      "📺 live": 582,
       "👨‍💻 dev": "@devxhasu",
       "📡 status": "LIVE ONLY"
     }
